@@ -1,17 +1,15 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ *1-. Se tienen 4 resistencias en paralelo R1 = 5.1 ohm, R2 = 68 ohm, R3 = 75 ohm 
+y R4 = 82 ohm; obtener la resistencia 
+equivalente.
+
  */
 package miprimeraaplicacionjava;
 
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-/**
- *
- * @author HP
- */
+
 public class Ejercicio1 {
     public static void main(String[] args) {
          NumberFormat formato; formato = new DecimalFormat ("#0.00");
